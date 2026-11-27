@@ -1,0 +1,9 @@
+{
+  "author": "Ahmed Abdelrahman",
+  "image_dir": "data/raw/images",
+  "mask_dir": "data/raw/masks",
+  "size": [448, 448],
+  "test_frac": 0.30,
+  "seed": 42,
+  "log_path": "experiments/log.csv"
+}
